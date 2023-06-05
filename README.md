@@ -6,7 +6,7 @@ To facilitate efficient management, I have implemented three dedicated forms wit
 
 The second form focuses on food categories, allowing administrators to oversee and modify different categories associated with food products. The form provides convenient options to perform CRUD operations on food category records, enabling administrators to effectively manage the categories as per their requirements.
 
-The second form focuses on food management, allowing administrators to oversee and modify different foods types  associated with food products. The form provides convenient options to perform CRUD operations on food category records, enabling administrators to effectively manage the categories as per their requirements.
+The second form focuses on food management, allowing administrators to oversee and modify different foods types, pricing and quantity.  associated with food products. The form provides convenient options to perform CRUD operations on food management records, enabling administrators to effectively manage the categories as per their requirements.
 
 Additionally, I have incorporated a fourth form that facilitates the Selling Management. This form enables the addition of new products to the system, allowing sellers to input relevant information such as product details, pricing, and stock levels. Furthermore, the form includes features for generating and printing bill receipts, as well as viewing a comprehensive list of the selling products. This functionality provides sellers with a consolidated overview of their sales and aids in maintaining accurate sales records.
 
