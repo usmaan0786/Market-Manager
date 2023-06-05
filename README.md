@@ -2,7 +2,8 @@
 ### Loading Page
 ![01](https://github.com/usmaan0786/Market-Management-System/assets/72275107/edf450cd-51f3-4b40-98d2-6ec800d29611)
 ### Login Page 
-There are two types of users a Sellers and an Admin both have separate GUI's. Admin can login with its username and password likewise Seller has its own username and password
+There are two types of users a Sellers and an Admin both have separate GUI's. Admin can login with its username and password likewise Seller has its own username and password.
+
 ![02](https://github.com/usmaan0786/Market-Management-System/assets/72275107/36142be6-0649-4482-8bfc-ceb0ef3c181b)
 ![03 ADD](https://github.com/usmaan0786/Market-Management-System/assets/72275107/119da558-0e88-40f7-9c22-fcfee2f1d518)
 ![04 edit](https://github.com/usmaan0786/Market-Management-System/assets/72275107/3492e4a6-94e1-425a-a1f8-072b12b9e43f)
